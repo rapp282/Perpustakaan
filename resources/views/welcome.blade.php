@@ -58,7 +58,9 @@
             <a href="/dashboard" class="fw-bold text-light" style="text-decoration: none;padding-left:11px;">&#9751; Dashboard</a><br>
             <hr class="my-4">
             <a href="/table" class="fw-bold text-light" style="text-decoration: none;padding-left:11px;">&#9780; Table</a><br><br>
-            <a href="/info" class="fw-bold text-light" style="text-decoration: none;padding-left:11px;"> &#128712; Info</a><br>
+            <a href="/info" class="fw-bold text-light" style="text-decoration: none;padding-left:11px;"> &#128712; Info</a>
+            <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <a href="/" class="fw-bold text-light" style="text-decoration: none;padding-left:11px;">&#10096; Logout</a>
         </div>
         <div id="nav-bar" class="container-fluid bg-light">
             <a href="#" class="fw-bold text-dark" style="position:absolute; text-decoration:none; margin-left:980px;font-size:20px;margin-top:15px; font-size:30px">&#9993;</a>
